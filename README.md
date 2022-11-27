@@ -5,12 +5,13 @@ We'll use the IMDB dataset that contains the text of 50,000 movie reviews from t
 
 This notebook uses tf.keras, a high-level API to build and train models in TensorFlow, and TensorFlow Hub, a library and platform for transfer learning. For a more advanced text classification tutorial using tf.keras, see the MLCC Text Classification Guide.
 
-References:
+*References:*
+
 Based on:
 >> https://www.tensorflow.org/hub/tutorials/tf2_text_classification
 
-# More models: 
+More models: 
 >> https://tfhub.dev/s?module-type=text-embedding
 
-# Word embedding: 
+Word embedding: 
 >> https://machinelearningmastery.com/what-are-word-embeddings/
